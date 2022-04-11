@@ -10,3 +10,4 @@ target/
 *.ipr
 .idea/*
 target/*
+.github/workflows/ci.yml
